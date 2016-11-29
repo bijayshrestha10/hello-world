@@ -1,4 +1,3 @@
 # hello-world
-first repository
-My name is bijay shrestha.
-I have added a name only.
+It is my first repository.
+-Bijay Shrestha
